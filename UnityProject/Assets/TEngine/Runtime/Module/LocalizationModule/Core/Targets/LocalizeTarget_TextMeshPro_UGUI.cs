@@ -1,9 +1,9 @@
 ﻿using System;
-using TMPro;
 using UnityEditor;
 using UnityEngine;
 
 #if TextMeshPro
+using TMPro;
 namespace TEngine.Localization
 {
     #if UNITY_EDITOR

@@ -1,5 +1,7 @@
 using System.Collections.Generic;
+#if TextMeshPro
 using TMPro;
+#endif
 using UnityEngine;
 using UnityEngine.UI;
 
